@@ -1,0 +1,5 @@
+# comments can be ignored...
+/test.txt
+*.js
+!main.js
+build/
